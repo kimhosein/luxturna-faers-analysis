@@ -1,0 +1,1074 @@
+FAERS Data Pull Summary
+Drug: luxturna
+Date: 2026-06-19
+Total reports available: 152
+Retrieved: 152
+Serious only: False
+Source: OpenFDA API (last updated 2026-04-28)
+
+============================================================
+
+--- Report 1 (ID: 15868084) ---
+Date: 20190125
+Patient: 6yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (11): Intraocular pressure increased, Cataract subcapsular, Lenticular opacities, Conjunctival haemorrhage, Intraocular pressure increased, Anterior chamber cell, Intraocular pressure increased, Conjunctival haemorrhage, Anterior chamber cell, Vitreal cells, Vitreal cells
+
+--- Report 2 (ID: 15889274) ---
+Date: 20190130
+Patient: 13yo Male, US
+Hospitalized: True | Death: False
+Drugs: PREDNISONE., MAXITROL, ATROPINE., LUXTURNA
+Reactions (3): Retinal tear, Vitreous opacities, Rhegmatogenous retinal detachment
+
+--- Report 3 (ID: 16118821) ---
+Date: 20190326
+Patient: 53yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Device dislocation, Rhegmatogenous retinal detachment, Retinal tear
+
+--- Report 4 (ID: 16152612) ---
+Date: 20190403
+Patient: 3yo Female, US
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., DAILY VITAMIN, ATROPINE., LUXTURNA, MAXITROL
+Reactions (1): Vitreous opacities
+
+--- Report 5 (ID: 16152614) ---
+Date: 20190403
+Patient: 43yo Female, US
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., ALLER-TEC, LIPOTRIAD VISION, ADVANCED STRENGTH JOINT SUPPORT, GOLDEN BLACK SEED, SUPER COLLAGEN C, SYNTHROID, MAXITROL, ATROPINE., FISH OIL, HELIOCARE DIETARY SUPPLEMENT, VITAMIN C, KIRKLAND SIGNATURE ALLER FEX, VENLAFAXINE, LUXTURNA
+Reactions (1): Intraocular pressure increased
+
+--- Report 6 (ID: 16152615) ---
+Date: 20190403
+Patient: 52yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Visual brightness
+
+--- Report 7 (ID: 16152617) ---
+Date: 20190403
+Patient: 6yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal tear
+
+--- Report 8 (ID: 16152618) ---
+Date: 20190403
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Intraocular pressure increased, Retinal deposits
+
+--- Report 9 (ID: 16152620) ---
+Date: 20190403
+Patient: unknownyo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal tear
+
+--- Report 10 (ID: 16152622) ---
+Date: 20190403
+Patient: 15yo Male, US
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., LUXTURNA
+Reactions (1): Retinal tear
+
+--- Report 11 (ID: 16152623) ---
+Date: 20190403
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Procedural pain, Intraocular pressure increased, Post procedural inflammation
+
+--- Report 12 (ID: 16152625) ---
+Date: 20190403
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Post procedural fever
+
+--- Report 13 (ID: 16152627) ---
+Date: 20190403
+Patient: unknownyo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Migraine, Eye irritation
+
+--- Report 14 (ID: 16152628) ---
+Date: 20190403
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Visual impairment
+
+--- Report 15 (ID: 16152629) ---
+Date: 20190403
+Patient: 42yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Eye haemorrhage
+
+--- Report 16 (ID: 16152631) ---
+Date: 20190403
+Patient: unknownyo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Headache, Eye discharge, Eye pain
+
+--- Report 17 (ID: 16153681) ---
+Date: 20190403
+Patient: 5yo Female, US
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., MAXITROL, ATROPINE., LUXTURNA
+Reactions (1): Vitreous opacities
+
+--- Report 18 (ID: 16153683) ---
+Date: 20190403
+Patient: 6yo Female, US
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., MAXITROL, ATROPINE., LUXTURNA
+Reactions (1): Vitreous opacities
+
+--- Report 19 (ID: 16160696) ---
+Date: 20190405
+Patient: unknownyo Female, FR
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., PREDNISOLONE., IMIPENEM, TOBRADEX, LUXTURNA
+Reactions (4): Cataract, Intraocular pressure decreased, Face oedema, Cataract
+
+--- Report 20 (ID: 16218635) ---
+Date: 20190419
+Patient: unknownyo Female, FR
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., PREDNISOLONE., IMIPENEM, TOBRADEX, LUXTURNA
+Reactions (4): Face oedema, Cataract, Cataract, Intraocular pressure decreased
+
+--- Report 21 (ID: 16763292) ---
+Date: 20190902
+Patient: 23yo Male, FR
+Hospitalized: True | Death: False
+Drugs: LUXTURNA
+Reactions (4): Disease progression, Retinal detachment, Chorioretinal folds, Visual impairment
+
+--- Report 22 (ID: 16790617) ---
+Date: 20190910
+Patient: unknownyo Female, FR
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., PREDNISOLONE., IMIPENEM, TOBRADEX, LUXTURNA
+Reactions (3): Cataract, Intraocular pressure decreased, Face oedema
+
+--- Report 23 (ID: 16861804) ---
+Date: 20190927
+Patient: 42yo Female, US
+Hospitalized: True | Death: False
+Drugs: LUXTURNA
+Reactions (1): Meningioma
+
+--- Report 24 (ID: 16872604) ---
+Date: 20191001
+Patient: 9yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Post procedural discomfort, Eye irritation
+
+--- Report 25 (ID: 16872605) ---
+Date: 20191001
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Ocular hyperaemia
+
+--- Report 26 (ID: 16872607) ---
+Date: 20191001
+Patient: 32yo Female, US
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., MAXITROL, ATROPINE., LUXTURNA
+Reactions (1): Central vision loss
+
+--- Report 27 (ID: 16872608) ---
+Date: 20191001
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Intraocular pressure increased, Intraocular pressure increased
+
+--- Report 28 (ID: 16872609) ---
+Date: 20191001
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Suture related complication, Ocular hyperaemia, Blister
+
+--- Report 29 (ID: 16872610) ---
+Date: 20191001
+Patient: 9yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (4): Photopsia, Eye pain, Cataract, Photophobia
+
+--- Report 30 (ID: 16872611) ---
+Date: 20191001
+Patient: 18yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Headache, Vision blurred, Retinal fovea disorder
+
+--- Report 31 (ID: 16872612) ---
+Date: 20191001
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: PREDNISONE., MAXITROL, LUXTURNA
+Reactions (1): Intraocular pressure increased
+
+--- Report 32 (ID: 16872613) ---
+Date: 20191001
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Eye pain, Ocular hyperaemia
+
+--- Report 33 (ID: 16872614) ---
+Date: 20191001
+Patient: 21yo Female, US
+Hospitalized: False | Death: False
+Drugs: PROZAC, ATARAX, METAFLOXICIN, LUXTURNA
+Reactions (4): Depressed mood, Photopsia, Eye pain, Condition aggravated
+
+--- Report 34 (ID: 16872616) ---
+Date: 20191001
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Eye pain
+
+--- Report 35 (ID: 16872617) ---
+Date: 20191001
+Patient: 27yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (7): Vitreous floaters, Photopsia, Eye pain, Lacrimation increased, Vision blurred, Strabismus, Eyelid injury
+
+--- Report 36 (ID: 16872618) ---
+Date: 20191001
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Eyelid ptosis, Vascular injury
+
+--- Report 37 (ID: 17045805) ---
+Date: 20191118
+Patient: 5yo Female, US
+Hospitalized: False | Death: False
+Drugs: CEFAZOLIN, PREDNISONE, LIDOCAINE, ROPIVACAINE, TRIAMCINOLONE, DEXAMETHASONE, DEXAMETHASONE\NEOMYCIN SULFATE\POLYMYXIN B SULFATE, ATROPINE, LUXTURNA
+Reactions (1): Ocular hypertension
+
+--- Report 38 (ID: 17353222) ---
+Date: 20200131
+Patient: 2yo Female, US
+Hospitalized: True | Death: False
+Drugs: LUXTURNA
+Reactions (3): Human herpesvirus 6 infection, Seizure, Roseola
+
+--- Report 39 (ID: 17605176) ---
+Date: 20200331
+Patient: unknownyo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (5): Visual brightness, Loss of visual contrast sensitivity, Vision blurred, Visual impairment, Depressed mood
+
+--- Report 40 (ID: 17605177) ---
+Date: 20200331
+Patient: unknownyo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Procedural pain, Eye pruritus, Eye pain
+
+--- Report 41 (ID: 17605178) ---
+Date: 20200331
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Vision blurred
+
+--- Report 42 (ID: 17605179) ---
+Date: 20200331
+Patient: unknownyo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Chorioretinal disorder
+
+--- Report 43 (ID: 17605180) ---
+Date: 20200331
+Patient: 25yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Ocular hyperaemia, Eye pain
+
+--- Report 44 (ID: 17605181) ---
+Date: 20200331
+Patient: 1yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal tear
+
+--- Report 45 (ID: 17605182) ---
+Date: 20200331
+Patient: 5yo Female, US
+Hospitalized: False | Death: False
+Drugs: TRIAMCINOLONE INJECTION, LUXTURNA
+Reactions (1): Ocular hypertension
+
+--- Report 46 (ID: 17605183) ---
+Date: 20200331
+Patient: 56yo Female, US
+Hospitalized: False | Death: False
+Drugs: PSTK (TRIAMCINOLONE ACETONIDE), PREDNISOLONE ACETATE., CORTICOSTEROIDS, LUXTURNA
+Reactions (4): Iritis, Visual impairment, Intraocular pressure increased, Post procedural inflammation
+
+--- Report 47 (ID: 18197420) ---
+Date: 20200826
+Patient: 27yo Female, US
+Hospitalized: True | Death: False
+Drugs: GARAMYCIN, PREDNISOLONE ACETATE, PREDNISONE, MYDFRIN, SANCUSO, CYCLOGYL, POLYTRIM, LUXTURNA
+Reactions (3): Sympathetic ophthalmia, Vogt-Koyanagi-Harada disease, Vogt-Koyanagi-Harada disease
+
+--- Report 48 (ID: 18337540) ---
+Date: 20201002
+Patient: 4yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Cataract
+
+--- Report 49 (ID: 18337541) ---
+Date: 20201002
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Vision blurred, Anxiety
+
+--- Report 50 (ID: 18337542) ---
+Date: 20201002
+Patient: 27yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Visual field defect, Visual impairment
+
+--- Report 51 (ID: 18337543) ---
+Date: 20201002
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (4): Seizure, Rash, Disturbance in attention, Pyrexia
+
+--- Report 52 (ID: 18337544) ---
+Date: 20201002
+Patient: 26yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Hyperhidrosis, Dizziness
+
+--- Report 53 (ID: 18337545) ---
+Date: 20201002
+Patient: 9yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Anxiety, Insomnia
+
+--- Report 54 (ID: 18337546) ---
+Date: 20201002
+Patient: 27yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Eye pain
+
+--- Report 55 (ID: 18337547) ---
+Date: 20201002
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Visual field defect
+
+--- Report 56 (ID: 19082275) ---
+Date: 20210401
+Patient: 20yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Suture related complication
+
+--- Report 57 (ID: 19082276) ---
+Date: 20210401
+Patient: 26yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Blindness, Ocular hyperaemia, Eye irritation
+
+--- Report 58 (ID: 19603695) ---
+Date: 20210723
+Patient: 21yo Female, FR
+Hospitalized: True | Death: False
+Drugs: CORTICOSTEROIDS, LUXTURNA
+Reactions (1): Brief psychotic disorder with marked stressors
+
+--- Report 59 (ID: 19903248) ---
+Date: 20211001
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Drug ineffective
+
+--- Report 60 (ID: 19903249) ---
+Date: 20211001
+Patient: 10yo Unknown, Unknown
+Hospitalized: False | Death: False
+Drugs: FLUOROMETHOLONE, MAXITROL, PREDNISONE, LUXTURNA
+Reactions (1): Intraocular pressure increased
+
+--- Report 61 (ID: 19903250) ---
+Date: 20211001
+Patient: 6yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Complication associated with device
+
+--- Report 62 (ID: 19903251) ---
+Date: 20211001
+Patient: 6yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Ocular hyperaemia, Eye swelling, Eye pain
+
+--- Report 63 (ID: 19903252) ---
+Date: 20211001
+Patient: 6yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Visual impairment
+
+--- Report 64 (ID: 19903253) ---
+Date: 20211001
+Patient: 3yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Intra-ocular injection complication, Visual impairment
+
+--- Report 65 (ID: 20171614) ---
+Date: 20211210
+Patient: unknownyo Female, NO
+Hospitalized: True | Death: False
+Drugs: PREDNISOLONE, LUXTURNA
+Reactions (2): Mental impairment, Discomfort
+
+--- Report 66 (ID: 20194736) ---
+Date: 20211216
+Patient: unknownyo Female, Unknown
+Hospitalized: True | Death: False
+Drugs: PREDNISOLONE, LUXTURNA
+Reactions (2): Mental impairment, Discomfort
+
+--- Report 67 (ID: 20195962) ---
+Date: 20211216
+Patient: unknownyo Female, NO
+Hospitalized: True | Death: False
+Drugs: PREDNISOLONE, LUXTURNA
+Reactions (2): Mental impairment, Discomfort
+
+--- Report 68 (ID: 20511754) ---
+Date: 20220224
+Patient: unknownyo Female, NO
+Hospitalized: True | Death: False
+Drugs: PREDNISOLONE, LUXTURNA
+Reactions (2): Mental impairment, Discomfort
+
+--- Report 69 (ID: 20565022) ---
+Date: 20220308
+Patient: unknownyo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Retinal degeneration, Intraocular pressure increased
+
+--- Report 70 (ID: 20565026) ---
+Date: 20220308
+Patient: 36yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: PREDNISOLONE, PANTOPRAZOLE, LUXTURNA
+Reactions (2): Retinal degeneration, Retinal degeneration
+
+--- Report 71 (ID: 20565035) ---
+Date: 20220308
+Patient: 5yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: PREDNISOLONE, PREDNISOLONE ACETATE, ATROPINE, TOBRADEX, LUXTURNA
+Reactions (2): Retinal depigmentation, Retinal haemorrhage
+
+--- Report 72 (ID: 20565037) ---
+Date: 20220308
+Patient: 18yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal depigmentation
+
+--- Report 73 (ID: 20565038) ---
+Date: 20220308
+Patient: 15yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: ZYRTEC, NASONEX, PROAIR HFA, LUXTURNA
+Reactions (1): Retinal depigmentation
+
+--- Report 74 (ID: 20565039) ---
+Date: 20220308
+Patient: 9yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: VITAMINS, LORATADINE, LUXTURNA
+Reactions (1): Retinal depigmentation
+
+--- Report 75 (ID: 20565040) ---
+Date: 20220308
+Patient: 8yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: MAXITROL, LUXTURNA
+Reactions (3): Central vision loss, Chorioretinal atrophy, Foveal degeneration
+
+--- Report 76 (ID: 20565041) ---
+Date: 20220308
+Patient: 5yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal depigmentation
+
+--- Report 77 (ID: 20565043) ---
+Date: 20220308
+Patient: 21yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: PREDNISOLONE ACETATE, DORZOLAMIDE\TIMOLOL, LUXTURNA
+Reactions (9): Rash, Ocular hypertension, Ocular hypertension, Ocular hypertension, Chorioretinal atrophy, Chorioretinal atrophy, Eye inflammation, Eye inflammation, Eye inflammation
+
+--- Report 78 (ID: 20565053) ---
+Date: 20220308
+Patient: 10yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: MIRALAX, OMEPRAZOLE, PEDIATRIC MULTIVIT-MINERALS-C, CYPROHEPTADINE, HYOSCYAMINE, ACETAMINOPHEN, ONDANSETRON HCL, DESMOPRESSIN, LUTEIN, LUXTURNA
+Reactions (2): Retinal depigmentation, Foveal degeneration
+
+--- Report 79 (ID: 20565063) ---
+Date: 20220308
+Patient: 15yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: PREDNISONE, MAXITROL, ATROPINE, LUXTURNA, ALPHAGAN P
+Reactions (4): Intraocular pressure increased, Intraocular pressure increased, Retinal tear, Chorioretinal atrophy
+
+--- Report 80 (ID: 20565064) ---
+Date: 20220308
+Patient: 7yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: MAXITROL, ATROPINE, PREDNISONE, LUXTURNA
+Reactions (1): Chorioretinal atrophy
+
+--- Report 81 (ID: 20565065) ---
+Date: 20220308
+Patient: 15yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: MAXITROL, ATROPINE, PREDNISONE, LUXTURNA
+Reactions (1): Chorioretinal atrophy
+
+--- Report 82 (ID: 20565067) ---
+Date: 20220308
+Patient: 12yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: PREDNISONE, ERYTHROMYCIN, PRED FORTE, ATROPINE, LUXTURNA, MAXITROL
+Reactions (2): Chorioretinal atrophy, Chorioretinal atrophy
+
+--- Report 83 (ID: 20578447) ---
+Date: 20220310
+Patient: 13yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Optic atrophy
+
+--- Report 84 (ID: 20578690) ---
+Date: 20220310
+Patient: 17yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Optic atrophy
+
+--- Report 85 (ID: 20589451) ---
+Date: 20220314
+Patient: 10yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: FLUOROMETHOLONE, MAXITROL, PREDNISONE, LUXTURNA
+Reactions (1): Intraocular pressure increased
+
+--- Report 86 (ID: 20602795) ---
+Date: 20220316
+Patient: 26yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Retinal degeneration, Visual acuity reduced
+
+--- Report 87 (ID: 20606102) ---
+Date: 20220317
+Patient: 36yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal degeneration
+
+--- Report 88 (ID: 20606103) ---
+Date: 20220317
+Patient: 16yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Retinal degeneration, Visual acuity reduced
+
+--- Report 89 (ID: 20635768) ---
+Date: 20220325
+Patient: 38yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Chorioretinal atrophy
+
+--- Report 90 (ID: 20635769) ---
+Date: 20220325
+Patient: 20yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal degeneration
+
+--- Report 91 (ID: 20635770) ---
+Date: 20220325
+Patient: 32yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal degeneration
+
+--- Report 92 (ID: 20635776) ---
+Date: 20220325
+Patient: 4yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Retinal degeneration, Retinal deposits, Chorioretinal atrophy
+
+--- Report 93 (ID: 20635780) ---
+Date: 20220325
+Patient: 34yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Central vision loss, Retinal depigmentation
+
+--- Report 94 (ID: 20635787) ---
+Date: 20220325
+Patient: 16yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: PREDNISONE, LUXTURNA
+Reactions (12): Conjunctival haemorrhage, Vitreal cells, Vitreal cells, Conjunctival haemorrhage, Retinal degeneration, Eye inflammation, Eye oedema, Eye inflammation, Lenticular opacities, Conjunctival hyperaemia, Conjunctival hyperaemia, Lenticular opacities
+
+--- Report 95 (ID: 20635788) ---
+Date: 20220325
+Patient: 12yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: CORTICOSTEROID NOS, PREDNISONE, LUXTURNA
+Reactions (9): Conjunctival haemorrhage, Pyrexia, Anosmia, Retinal degeneration, Eye inflammation, Eye inflammation, Cataract subcapsular, Intraocular pressure increased, Conjunctival hyperaemia
+
+--- Report 96 (ID: 21396693) ---
+Date: 20220930
+Patient: unknownyo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Eye pain
+
+--- Report 97 (ID: 21396694) ---
+Date: 20220930
+Patient: 34yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Blindness
+
+--- Report 98 (ID: 21396695) ---
+Date: 20220930
+Patient: 6yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Vitreous opacities, Vitreous opacities
+
+--- Report 99 (ID: 21396696) ---
+Date: 20220930
+Patient: unknownyo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (5): Pyrexia, Chills, Oropharyngeal pain, Cough, Headache
+
+--- Report 100 (ID: 21396697) ---
+Date: 20220930
+Patient: 4yo Unknown, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Retinal tear, Ocular hyperaemia
+
+--- Report 101 (ID: 21396698) ---
+Date: 20220930
+Patient: 7yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Ear infection, Pharyngitis streptococcal, Suspected COVID-19
+
+--- Report 102 (ID: 21396699) ---
+Date: 20220930
+Patient: 31yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Eye pain
+
+--- Report 103 (ID: 21396700) ---
+Date: 20220930
+Patient: unknownyo Unknown, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Intraocular pressure increased
+
+--- Report 104 (ID: 21396701) ---
+Date: 20220930
+Patient: 7yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Vomiting
+
+--- Report 105 (ID: 21396703) ---
+Date: 20220930
+Patient: 18yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: TRIESENCE, PRED FORTE, ATROPINE, DELTASONE, VIGAMOX, LUXTURNA, ISOPTO ATROPINE, MARCAINE, CORTICOSTEROID NOS, ANCEF, OFIRMEV, DECADRON, BALANCED SALT SOLUTION, KENALOG, TETRACAINE HYDROCHLORIDE, ADRENALIN, BETADINE, COMBO EYE DROPS, COSOPT, MAXITROL
+Reactions (1): Intraocular pressure increased
+
+--- Report 106 (ID: 21396704) ---
+Date: 20220930
+Patient: 7yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: BALANCED SALT SOLUTION (BSS), ISOPTO ATROPINE, MARCAINE, BETADINE, ORAPRED, ANCEF, EPINEPHRINE, MAXITROL, COMBO EYE DROPS, COSOPT, PRED FORTE, KENALOG, ATROPINE, TETRACAINE HYDROCHLORIDE, OFIRMEV, DECADRON, VIGAMOX, LUXTURNA
+Reactions (2): Ocular hypertension, Intraocular pressure increased
+
+--- Report 107 (ID: 21396705) ---
+Date: 20220930
+Patient: 20yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: SINGULAIR, CLINDAMYCIN, LORATADINE, ZOLOFT, PSYLLIUM, LUXTURNA
+Reactions (2): Visual impairment, Night blindness
+
+--- Report 108 (ID: 21396707) ---
+Date: 20220930
+Patient: 23yo Female, Unknown
+Hospitalized: False | Death: False
+Drugs: TRISENCE, EPINEPHRINE, PRED FORTE, DORZOLAMIDE, DELTASONE, VIGAMOX, LUXTURNA, ISOPTO ATROPINE, MARCAINE, ANCEF, OFIRMEV, DECADRON, BALANCED SALT SOLUTION, DIAMOX SEQUELS, KENALOG, TETRACAINE HYDROCHLORIDE, ALPHAGAN P, BETADINE, COMBO EYE DROPS, COSOPT, MAXITROL
+Reactions (6): Vitritis, Ocular discomfort, Suture related complication, Intraocular pressure increased, Suture related complication, Eye irritation
+
+--- Report 109 (ID: 21396708) ---
+Date: 20220930
+Patient: 50yo Male, Unknown
+Hospitalized: False | Death: False
+Drugs: NAPROXEN, SINGULAIR, PREDNISONE, LUXTURNA
+Reactions (2): Vitreous haemorrhage, Intra-ocular injection complication
+
+--- Report 110 (ID: 21541566) ---
+Date: 20221102
+Patient: unknownyo Unknown, Unknown
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Glaucoma, Intraocular pressure increased
+
+--- Report 111 (ID: 21602952) ---
+Date: 20221116
+Patient: 5yo Male, Unknown
+Hospitalized: True | Death: False
+Drugs: SOLUPRED, LUXTURNA
+Reactions (1): Vitreous haemorrhage
+
+--- Report 112 (ID: 22119512) ---
+Date: 20230321
+Patient: 10yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: FLUOROMETHOLONE, MAXITROL, PREDNISONE, LUXTURNA
+Reactions (4): Eye inflammation, Eye inflammation, Intraocular pressure increased, Intraocular pressure increased
+
+--- Report 113 (ID: 22525189) ---
+Date: 20230606
+Patient: 20yo Male, US
+Hospitalized: True | Death: False
+Drugs: LUXTURNA
+Reactions (4): Relapsing-remitting multiple sclerosis, COVID-19, Blindness, Retinal degeneration
+
+--- Report 114 (ID: 22650274) ---
+Date: 20230628
+Patient: unknownyo Male, CA
+Hospitalized: True | Death: False
+Drugs: LUCENTIS, LUXTURNA
+Reactions (1): Myocardial infarction
+
+--- Report 115 (ID: 22652106) ---
+Date: 20230628
+Patient: unknownyo Unknown, HU
+Hospitalized: False | Death: False
+Drugs: PREDNISOLONE, POTASSIUM, PANTOPRAZOLE, LUXTURNA
+Reactions (1): Vitreous adhesions
+
+--- Report 116 (ID: 22843602) ---
+Date: 20230821
+Patient: 39yo Male, NL
+Hospitalized: True | Death: True
+Drugs: LUXTURNA
+Reactions (3): Death, Testis cancer, Metastases to lung
+
+--- Report 117 (ID: 22926155) ---
+Date: 20230909
+Patient: unknownyo Unknown, HU
+Hospitalized: False | Death: False
+Drugs: PREDNISOLONE, POTASSIUM, PANTOPRAZOLE, LUXTURNA
+Reactions (1): Vitreous adhesions
+
+--- Report 118 (ID: 23011458) ---
+Date: 20230929
+Patient: 38yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Visual impairment, Vision blurred
+
+--- Report 119 (ID: 23011459) ---
+Date: 20230929
+Patient: 18yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Intraocular pressure increased
+
+--- Report 120 (ID: 23011460) ---
+Date: 20230929
+Patient: 37yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Eye swelling
+
+--- Report 121 (ID: 23011462) ---
+Date: 20230929
+Patient: 44yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Drug ineffective
+
+--- Report 122 (ID: 23011463) ---
+Date: 20230929
+Patient: 29yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Drug ineffective
+
+--- Report 123 (ID: 23011464) ---
+Date: 20230929
+Patient: 11yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal degeneration
+
+--- Report 124 (ID: 23011466) ---
+Date: 20230929
+Patient: 38yo Female, US
+Hospitalized: False | Death: False
+Drugs: BENAZEPRIL, FERROUS SULFATE, FLUOXETINE, NIFEDIPINE, LUXTURNA
+Reactions (1): Drug ineffective
+
+--- Report 125 (ID: 23011468) ---
+Date: 20230929
+Patient: 6yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal degeneration
+
+--- Report 126 (ID: 23011469) ---
+Date: 20230929
+Patient: 19yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Headache
+
+--- Report 127 (ID: 23011470) ---
+Date: 20230929
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Visual impairment
+
+--- Report 128 (ID: 23011471) ---
+Date: 20230929
+Patient: 2yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Conjunctival haemorrhage, Conjunctival haemorrhage
+
+--- Report 129 (ID: 23011472) ---
+Date: 20230929
+Patient: 29yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Photopsia
+
+--- Report 130 (ID: 23011473) ---
+Date: 20230929
+Patient: 41yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Visual impairment
+
+--- Report 131 (ID: 23011475) ---
+Date: 20230929
+Patient: 10yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: FLUOROMETHOLONE, MAXITROL, PREDNISONE, LUXTURNA
+Reactions (4): Eye inflammation, Eye inflammation, Intraocular pressure increased, Intraocular pressure increased
+
+--- Report 132 (ID: 23011476) ---
+Date: 20230929
+Patient: 31yo Female, US
+Hospitalized: False | Death: False
+Drugs: CORTICOSTEROID NOS, LUXTURNA
+Reactions (2): Cataract, Visual impairment
+
+--- Report 133 (ID: 23011477) ---
+Date: 20230929
+Patient: unknownyo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Nasopharyngitis
+
+--- Report 134 (ID: 23011478) ---
+Date: 20230929
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Off label use
+
+--- Report 135 (ID: 23011480) ---
+Date: 20230929
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal degeneration
+
+--- Report 136 (ID: 23011481) ---
+Date: 20230929
+Patient: unknownyo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Off label use
+
+--- Report 137 (ID: 23056337) ---
+Date: 20231011
+Patient: 5yo Female, US
+Hospitalized: False | Death: False
+Drugs: LIDOCAINE, TRIAMCINOLONE, DEXAMETHASONE, VORETIGENE NEPARVOVEC-RZYL, Neomycin/polymixin-B/dexamethasone, BUPIVACAINE, ATROPINE, CEFAZOLIN
+Reactions (1): Ocular hypertension
+
+--- Report 138 (ID: 23173010) ---
+Date: 20231110
+Patient: 10yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA, FLUOROMETHOLONE, PREDNISONE, MAXITROL
+Reactions (2): Intraocular pressure increased, Eye inflammation
+
+--- Report 139 (ID: 23197459) ---
+Date: 20231117
+Patient: 72yo Male, IT
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (2): Atrial fibrillation, Product use issue
+
+--- Report 140 (ID: 23707280) ---
+Date: 20240404
+Patient: 5yo Female, RU
+Hospitalized: False | Death: False
+Drugs: METHYLPREDNISOLONE, LUXTURNA
+Reactions (3): Episcleritis, Intraocular pressure increased, Retinal degeneration
+
+--- Report 141 (ID: 24310660) ---
+Date: 20240912
+Patient: 12yo Male, SK
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (3): Leber^s congenital amaurosis, Disease progression, Drug ineffective
+
+--- Report 142 (ID: 24382515) ---
+Date: 20241001
+Patient: 32yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Cataract operation
+
+--- Report 143 (ID: 24382516) ---
+Date: 20241001
+Patient: 28yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Retinal detachment
+
+--- Report 144 (ID: 24382517) ---
+Date: 20241001
+Patient: 7yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Eye movement disorder
+
+--- Report 145 (ID: 24382518) ---
+Date: 20241001
+Patient: 22yo Female, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Ocular hypertension
+
+--- Report 146 (ID: 24382519) ---
+Date: 20241001
+Patient: 55yo Male, US
+Hospitalized: False | Death: False
+Drugs: ALLOPURINOL, AMLODIPINE, LUXTURNA
+Reactions (3): Photophobia, Retinal depigmentation, Drug ineffective
+
+--- Report 147 (ID: 24382520) ---
+Date: 20241001
+Patient: 54yo Male, US
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Cataract
+
+--- Report 148 (ID: 25166751) ---
+Date: 20250407
+Patient: 54yo Male, US
+Hospitalized: True | Death: False
+Drugs: LUXTURNA
+Reactions (11): Gait inability, Cataract, Posterior capsule opacification, Eye haemorrhage, Vertigo, Dizziness, Discomfort, Vision blurred, Ill-defined disorder, Balance disorder, Feeling abnormal
+
+--- Report 149 (ID: 25597269) ---
+Date: 20250723
+Patient: 9yo Female, GB
+Hospitalized: False | Death: False
+Drugs: LUXTURNA
+Reactions (1): Optic atrophy
+
+--- Report 150 (ID: 25599563) ---
+Date: 20250724
+Patient: 20yo Male, US
+Hospitalized: False | Death: False
+Drugs: PSYLLIUM (PLANTAGO OVATA), SINGULAIR(MONTELUKAST SODIUM), CLINDAMYCIN, ZOLOFT(SERTRALINE HYDROCHLORIDE), LORATADINE, LUXTURNA
+Reactions (2): Visual acuity reduced, Night blindness
+
+--- Report 151 (ID: 25981497) ---
+Date: 20251030
+Patient: 33yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: TRIAMCINOLONE ACETONIDE, LUXTURNA
+Reactions (1): Blindness
+
+--- Report 152 (ID: 25981499) ---
+Date: 20251030
+Patient: 20yo Unknown, US
+Hospitalized: False | Death: False
+Drugs: TRIAMCINOLONE ACETONIDE, LUXTURNA
+Reactions (1): Blindness
+
